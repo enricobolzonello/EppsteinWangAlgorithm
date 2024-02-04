@@ -10,6 +10,9 @@ $$c(v)=\frac{n-1}{n/k \cdot sum_v}$$
 
 where $sum_v$ is sum of all shortest paths from source $v$.
 
+>[!Warning]
+>This project has been built for learning purposes, use it at your own risk
+
 ## References
 <a id="1">[1]</a> 
 Eppstein and J. Wang,
