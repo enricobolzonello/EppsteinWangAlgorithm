@@ -6,9 +6,7 @@
 
 Implementation of the Eppstein-Wang algorithm [[1]](#1) for approximating closeness centrality in an undirected graph.
 Closeness centrality is approximated as:
-$$
-c(v)=\frac{n-1}{n/k \cdot sum_v}
-$$
+$$c(v)=\frac{n-1}{n/k \cdot sum_v}$$
 
 where $sum_v$ is sum of all shortest paths from source $v$.
 
